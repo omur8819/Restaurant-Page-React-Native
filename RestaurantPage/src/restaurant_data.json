@@ -1,0 +1,123 @@
+[
+    {
+      "id": 0,
+      "author": "omur8819",
+      "name": "1 - Mirazur",
+      "location": "Menton, France",
+      "story":
+        "Unrivalled views of the French Riviera, three levels of cascading vegetable gardens churning out the sweetest produce and a team of outrageously talented cooks and front-of-house staff combine to make Mirazur the ultimate restaurant experience. Mauro Colagreco’s unique cuisine is inspired by the sea, the mountains and the restaurant’s own gardens, including Menton’s emblematic citrus fruits.",
+      "imageUrl":
+        "https://playtusu.com/wp-content/uploads/2019/06/mirazur.jpg",
+      "inspect":
+        "https://www.theworlds50best.com/the-list/1-10/Mirazur.html"
+    },
+    {
+      "id": 1,
+      "author": "omur8819",
+      "name": "2 - Noma",
+      "location": "Copenhagen, Denmark",
+      "story":
+        "The original Noma was, undoubtedly, one of the most important restaurants of its generation. With his food, René Redzepi developed a new genre of cuisine. New Nordic cookery looks back to look ahead; digging deeper than seasonality to explore unsung foraged products, while seamlessly weaving in a study of fermentation. Redzepi’s visionary approach to celebrating terroir via ingredient-focused, minimalist plates earned the first incarnation of Noma the title of The World’s Best Restaurant in four years: 2010, 2011, 2012, and 2014.",
+      "imageUrl":
+        "https://www.theworlds50best.com/filestore/jpg/Noma-WORLD-2019-DISH2.jpg",
+      "inspect":
+        "https://www.theworlds50best.com/the-list/1-10/Noma.html"
+      
+    },
+    {
+      "id": 2,
+      "author": "omur8819",
+      "name": "3 - Asador Etxebarri",
+      "location": "Axpe, Spain",
+      "story":
+        "Chef Victor Arguinzoniz has a remarkable ability to coax out explosive flavour from seemingly simple ingredients, most of which are grilled over an open hearth.",
+      "imageUrl":
+        "https://www.theworlds50best.com/filestore/jpg/Asador-WORLD-2019-DISH2.jpg",
+      "inspect":
+        "https://www.theworlds50best.com/the-list/1-10/Asador-Etxebarri.html"
+    },
+    {
+      "id": 3,
+      "author": "omur8819",
+      "name": "4 - Gaggan",
+      "location": "Bangkok, Thailand",
+      "story":
+        "For four years in a row (2014-2018), Gaggan was voted No.1 in Asia’s 50 Best Restaurants, a testament to the constant innovation and improvement at this ever-evolving hub of creativity. El Bulli-influenced chef Gaggan Anand serves up a menu of 25 or more courses of rapid-fire small bites, many of which are eaten with the hands.",
+      "imageUrl": 
+        "https://www.theworlds50best.com/filestore/jpg/Gaggan-WORLD-2019-DISH1-min.jpg",
+      "inspect":
+        "https://www.theworlds50best.com/the-list/1-10/Gaggan.html"
+    },
+    {
+      "id": 4,
+      "author": "omur8819",
+      "name": "5 - Geranium",
+      "location": "Copenhagen, Denmark",
+      "story":
+        "The seemingly unlikely duo of nature and technology are at the heart of chef Rasmus Kofoed’s progressive tasting menu: 17-plus inspired, artistic courses composed of organic and wild Scandinavian ingredients. While a presentation of fragile, near-translucent leaves is made from a Jerusalem artichoke purée, what look to be razor clams are actually dough painted with squid ink.",
+      "imageUrl":
+        "https://www.theworlds50best.com/filestore/jpg/Geranium-WORLD-2019-DiSH2.jpg",
+      "inspect":
+        "https://www.theworlds50best.com/the-list/1-10/Geranium.html"
+    },
+    {
+      "id": 5,
+      "author": "omur8819",
+      "name": "6 - Central",
+      "location": "Lima, Peru",
+      "story":
+        "Chefs Virgilio Martínez and Pía León’s flagship restaurant is a shrine to everything that is Peruvian, including many ingredients that are seldom served elsewhere. The husband-and-wife team have been travelling the length and breadth of the country for several years to source interesting and unique produce from land, sea and mountains.",
+      "imageUrl":
+        "https://www.theworlds50best.com/filestore/jpg/Central-WORLD-2019-DISH1-min.jpg",
+      "inspect":
+        "https://www.theworlds50best.com/the-list/1-10/Central.html"
+    },
+    {
+      "id": 6,
+      "author": "omur8819",
+      "name": "7 - Mugaritz",
+      "location": "San Sebastián, Spain",
+      "story":
+        "Mugaritz is playful, avant garde and highly innovative. It’s a creative dining experience developed by Chef Andoni Luis Aduriz aimed to open minds; Aduriz freely admits that not all of his plates are designed to be enjoyed by diners. Dishes on the 20-30-course menu – which change throughout its eight-month season – bear emotive names such as How Long a Kiss Lasts or Depends On How I Look At It.",
+      "imageUrl":
+        "https://www.theworlds50best.com/filestore/jpg/Mugaritz-WORLD-2019-DISH2.jpg",
+      "inspect":
+        "https://www.theworlds50best.com/the-list/1-10/Mugaritz.html"
+    },
+    {
+      "id": 7,
+      "author": "omur8819",
+      "name": "8 - Arpège",
+      "location": "Paris, France",
+      "story":
+        "One of a handful of cooks who have remained at the top of global fine dining for decades, Alain Passard needs little introduction. He has retained three Michelin stars at Arpège for more than two decades during times of great personal and culinary change, and in 2019 he was the recipient of the Chefs’ Choice Award, sponsored by Estrella Damm, at The World’s 50 Best Restaurants awards in Singapore.",
+      "imageUrl":
+        "https://www.theworlds50best.com/filestore/jpg/Arpege-WORLD-2019-Dish1-min.jpg",
+      "inspect":
+        "https://www.theworlds50best.com/the-list/1-10/Arp%C3%A8ge.html"
+    },
+    {
+      "id": 8,
+      "author": "omur8819",
+      "name": "9 - Disfrutar",
+      "location": "Barcelona, Spain",
+      "story":
+        "Gazpacho in sandwich form? Crispy egg yolk? Liquid salad? Hare bonbon? If such seemingly paradoxical dishes do not pique your interest, then Disfrutar is not the restaurant for you. But for most who attend this unique Barcelona restaurant, such surprises form part of a thrilling rapid-fire, roller-coaster ride of a dining experience.",
+      "imageUrl":
+        "https://www.theworlds50best.com/filestore/jpg/Disfutar-WORLD-2019-DISH1-min.jpg",
+      "inspect":
+        "https://www.theworlds50best.com/the-list/1-10/Disfrutar.html"
+    },
+    {
+      "id": 9,
+      "author": "omur8819",
+      "name": "10 - Maido",
+      "location": "Lima, Peru",
+      "story":
+        "When Peru meets Japan on the plate, Nikkei is born – and chef Mitsuharu ‘Micha’ Tsumura is the Nikkei king. This translates to a welcoming spot where fresh fish and citrus-packed sauces reign supreme. Little wonder it was voted The Best Restaurant in Latin America in both 2017 and 2018.",
+      "imageUrl":
+        "https://www.theworlds50best.com/filestore/jpg/Maido-WORLD-2019-DISH2.jpg",
+      "inspect":
+        "https://www.theworlds50best.com/the-list/1-10/Maido.html"
+    }
+]
